@@ -1,0 +1,43 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+cmpt201        1  0.0  0.0  13996  7688 pts/0    Ss   Oct15   0:00 zsh --login
+cmpt201     8927  0.0  0.0  14028  7816 pts/2    Ss   Oct15   0:00 zsh --login
+cmpt201    13057  0.0  0.0  17200  8532 pts/1    Ss   Oct16   0:00 zsh --login
+cmpt201    13195  0.0  0.2 1344424 32360 pts/1   Sl+  Oct16   0:02 glow -p units/02-tools/a4-2026fall-d1-hba76/README.md
+cmpt201    13206  0.0  0.0   8952  2996 pts/1    S+   Oct16   0:00 less
+cmpt201    74918  0.0  0.0   2904  2156 pts/0    S+   Oct17   0:00 /home/cmpt201/.local/bin/record
+cmpt201    74919  0.0  0.2 109296 36304 pts/0    S+   Oct17   0:02 /home/cmpt201/.local/bin/record
+cmpt201    74924  0.0  0.1 108604 23968 pts/0    Sl+  Oct17   0:16 /usr/bin/python3 /usr/bin/asciinema rec --idle-time-limit=60 --stdin --quiet /tmp/.record/input.0.2026-10-17T11:06:43.229321
+cmpt201    74926  0.0  0.1  34840 15820 pts/0    S+   Oct17   0:00 /usr/bin/python3 /usr/bin/asciinema rec --idle-time-limit=60 --stdin --quiet /tmp/.record/input.0.2026-10-17T11:06:43.229321
+cmpt201    74927  0.0  0.1  35464 17176 pts/0    S+   Oct17   0:09 /usr/bin/python3 /usr/bin/asciinema rec --idle-time-limit=60 --stdin --quiet /tmp/.record/input.0.2026-10-17T11:06:43.229321
+cmpt201    74928  0.0  0.0      0     0 ?        Zs   Oct17   0:00 [sh] <defunct>
+cmpt201    76754  0.0  0.0   2688  1800 ?        S    Oct17   0:00 NULL
+cmpt201    79723  0.0  0.0   2688  1584 ?        S    Oct17   0:00 NULL
+cmpt201    81025  0.0  0.0   2688  1608 ?        S    Oct17   0:00 NULL
+cmpt201    81659  0.0  0.0   2688  1452 ?        S    Oct17   0:00 NULL
+cmpt201    82863  0.0  0.0   2688  1544 ?        S    Oct17   0:00 NULL
+cmpt201    84324  0.0  0.0   2688  1668 ?        S    Oct17   0:00 NULL
+cmpt201    84325  0.0  0.0      0     0 ?        Z    Oct17   0:00 [sleep] <defunct>
+cmpt201    84973  0.0  0.0   2688  1668 ?        S    Oct17   0:00 NULL
+cmpt201    84974  0.0  0.0      0     0 ?        Z    Oct17   0:00 [sleep] <defunct>
+cmpt201    96309  0.0  0.0   2692  1620 ?        S    Oct17   0:00 NULL
+cmpt201    96310  0.0  0.0      0     0 ?        Z    Oct17   0:00 [sleep] <defunct>
+cmpt201    97308  0.0  0.0   2692  1616 ?        S    Oct17   0:00 NULL
+cmpt201    98228  0.0  0.0   2692  1816 ?        S    Oct17   0:00 NULL
+cmpt201    99515  0.0  0.0   2692  1748 ?        S    Oct17   0:00 NULL
+cmpt201   100534  0.0  0.0   2692  1544 ?        S    Oct17   0:00 NULL
+cmpt201   101058  0.0  0.0   2692  1616 ?        S    Oct17   0:00 NULL
+cmpt201   101890  0.0  0.0   2692  1424 ?        S    Oct17   0:00 NULL
+cmpt201   102549  0.0  0.0   2692  1616 ?        S    Oct17   0:00 NULL
+cmpt201   103118  0.0  0.0   2692  1616 ?        S    Oct17   0:00 NULL
+cmpt201   103639  0.0  0.0   2692  1420 ?        S    Oct17   0:00 NULL
+cmpt201   104197  0.0  0.0   2692  1540 ?        S    Oct17   0:00 NULL
+cmpt201   105307  0.0  0.0   2692  1616 ?        S    Oct17   0:00 NULL
+cmpt201   125760  0.0  0.0   2692  1928 ?        S    Oct17   0:00 NULL
+cmpt201   129809  0.0  0.0   2692  1620 ?        S    Oct17   0:00 NULL
+cmpt201   129810  0.0  0.0      0     0 ?        Z    Oct17   0:00 [sleep] <defunct>
+cmpt201   135727  0.0  0.0  87820  7120 pts/2    Sl+  Oct17   0:57 btop
+cmpt201   138851  0.0  0.0   2692  1816 ?        S    Oct17   0:00 NULL
+cmpt201   139083  0.0  0.0  17580  8892 pts/4    Ss   Oct17   0:01 zsh --login
+cmpt201   144165  0.0  0.0   2904  2160 pts/4    S+   12:25   0:00 /home/cmpt201/.local/bin/record
+cmpt201   144166  0.0  0.2 123512 36932 pts/4    S+   12:25   0:00 /home/cmpt201/.local/bin/record
+cmpt201   151417  0.0  0.0  13488  4640 pts/4    R+   14:41   0:00 ps aux
